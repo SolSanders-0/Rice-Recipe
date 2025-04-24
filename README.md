@@ -18,8 +18,8 @@ This project is part of my studies through [freeCodeCamp](https://www.freecodeca
 
 ## 🔗 Live Preview
 
-Rice recipe.html
-
+[Rice recipe.html
+](https://github.com/SolSanders-0/Rice-Recipe/blob/main/Rice%20recipe.html)
 ## 📝 Author
 
 Solange Sanders  
