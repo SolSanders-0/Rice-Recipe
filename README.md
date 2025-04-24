@@ -1,0 +1,2 @@
+# Rice-Recipe
+Studying Project
