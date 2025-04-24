@@ -18,7 +18,7 @@ This project is part of my studies through [freeCodeCamp](https://www.freecodeca
 
 ## 🔗 Live Preview
 
-_(Optional: Add a link if you publish the page through GitHub Pages or another hosting platform.)_
+Rice recipe.html
 
 ## 📝 Author
 
